@@ -1,8 +1,10 @@
 # ICS Developer Workshop
 <center>![](https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-logo.png)</center> 
+
 > Updated: March 9th, 2018
 
 
+# Journey To The Cloud: Oracle Integration Cloud (OIC) - Enterprise Integration Hands On Lab
 A hands-on workshop to dive into development on Oracle's Cloud Integration Platform
 
 ## About
