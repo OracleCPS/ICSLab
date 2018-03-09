@@ -1,5 +1,7 @@
 # ICS Developer Workshop
 <center>![](https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-logo.png)</center> 
+> Updated: March 9th, 2018
+
 
 A hands-on workshop to dive into development on Oracle's Cloud Integration Platform
 
