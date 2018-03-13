@@ -45,7 +45,7 @@ The ICS integration that we'll be working with is shown in the following picture
 
 Here is a description of what is happening with this integration:
 
-SoapUI will be used to test the exposed Web Service endpoint of the ICS integration called *UserXX Create EBS Order* (where XX will be 00 -> 10).  This integration has 3 connections.  The incoming message is received by the incoming *UserXX SOAP* Soap Connection.  The *UserXX Create EBS Order* orchestration makes 1 query into the database using the *UserXX Oracle DB 12c* connection to get details needed to create an order.  The orchestration finally uses the *UserXX EBS OPERATIONS* EBS Adapter connection for creating the order in EBS.  After the order is created in EBS, the Order Number is returned to the calling web service.
+SoapUI will be used to test the exposed Web Service endpoint of the ICS integration called *UserXX Create EBS Order* (where XX will be the Number assigned by the Instructor).  This integration has 3 connections.  The incoming message is received by the incoming *UserXX SOAP* Soap Connection.  The *UserXX Create EBS Order* orchestration makes 1 query into the database using the *UserXX Oracle DB 12c* connection to get details needed to create an order.  The orchestration finally uses the *UserXX EBS OPERATIONS* EBS Adapter connection for creating the order in EBS.  After the order is created in EBS, the Order Number is returned to the calling web service.
 
 ## Get Started: 
 Open the navigation menu using the hamburger icon in the upper left of the menu bar to choose a lab guide and get started.
