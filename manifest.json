@@ -1,14 +1,14 @@
 {
     "workshop": {
-        "title": "Cloud Accelerate: ICS Developer Workshop",
-        "description": "A hands-on event to explore Oracle’s Integration Cloud Servicce.",
+        "title": "Cloud Accelerate: OIC (ICS) Developer Workshop",
+        "description": "A hands-on event to explore Oracle’s Integration Cloud.",
         "theme": "ttc",
         "interactive": "https://launch.oracle.com/?ttcicsdeveloper",
         "labs": [{
                 "number": "1",
                 "filename": "Home.md",
                 "title": "Home",
-                "description": "Welcome to the ICS workshop"
+                "description": "Welcome to the OIC Integration workshop"
             },{
                 "number": "10",
                 "filename": "StudentGuide.md",
@@ -19,7 +19,7 @@
                 "number": "100",
                 "filename": "ics100.md",
                 "title": "Lab 100: Exploring ICS",
-                "description": "This lab will expose you to the functionality in ICS."
+                "description": "This lab will expose you to the functionality in OIC Integration."
             },
             {
                 "number": "200",
@@ -31,13 +31,13 @@
                 "number": "300",
                 "filename": "ics300.md",
                 "title": "Lab 300: Database Integration",
-                "description": "In this Lab we are going to develop an integration into an on-premesis backend database system using an ICS orchestration."
+                "description": "In this Lab we are going to develop an integration into an on-premesis backend database system using an OIC Integration orchestration."
             },
             {
                 "number": "400",
                 "filename": "ics400.md",
                 "title": "Lab 400: EBS Integration",
-                "description": "In this Lab we are going to create an integration into an on-premesis backend EBS system using an ICS orchestration."
+                "description": "In this Lab we are going to create an integration into an on-premesis backend EBS system using an OIC Integration orchestration."
             }
         ]
     }
